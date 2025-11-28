@@ -5,7 +5,7 @@
 - **Fecha de entrega del código:** Viernes hasta las 23:59
 - **Fecha de defensa oral:** Sábado 07:00 AM
 - **Enlace Zoom:** https://utpl.zoom.us/j/84861000609
-- **Duración de la defensa:** 15-20 minutos por estudiante
+- **Duración de la defensa:** 5-10 minutos por estudiante
 - **Modalidad:** Virtual (Zoom)
 - **Puntaje total:** 10 puntos
 
@@ -472,12 +472,12 @@ TOTAL:        3.0 pts
 
 **Objetivo:** Demostrar dominio conceptual y capacidad de explicar decisiones técnicas.
 
-**Formato:** Presentación virtual por Zoom el día sábado (15-20 minutos)
+**Formato:** Presentación virtual por Zoom el día sábado (5-10 minutos)
 
 **Información de la sesión:**
-- 📅 **Fecha:** Sábado 07:00 AM
-- 🔗 **Enlace Zoom:** https://utpl.zoom.us/j/84861000609
-- ⏱️ **Duración:** 15-20 minutos por estudiante
+- **Fecha:** Sábado 07:00 AM
+- **Enlace Zoom:** https://utpl.zoom.us/j/84861000609
+- **Duración:** 5-10 minutos por estudiante
 
 Durante la defensa oral deberás:
 1. Compartir tu pantalla mostrando el código de las Fases 1 y 2
@@ -746,12 +746,12 @@ val prestamos = List(
 5. **Sé honesto:** Es mejor admitir dudas que inventar
 
 ### Conceptos Clave a Dominar:
-- ✅ Diferencia imperativo vs declarativo
-- ✅ Inmutabilidad y sus ventajas
-- ✅ Características de funciones puras
-- ✅ Closures y funciones de orden superior
-- ✅ Composición de funciones
-- ✅ Map, filter, reduce y cuándo usar cada uno
+- Diferencia imperativo vs declarativo
+- Inmutabilidad y sus ventajas
+- Características de funciones puras
+- Closures y funciones de orden superior
+- Composición de funciones
+- Map, filter, reduce y cuándo usar cada uno
 
 ---
 
