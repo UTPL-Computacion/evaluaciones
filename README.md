@@ -3,9 +3,10 @@
 ## Información General
 
 - **Fecha de entrega del código:** Viernes hasta las 23:59
-- **Fecha de defensa oral:** Sábado (hora a coordinar)
+- **Fecha de defensa oral:** Sábado 07:00 AM
+- **Enlace Zoom:** https://utpl.zoom.us/j/84861000609
 - **Duración de la defensa:** 15-20 minutos por estudiante
-- **Modalidad:** Presencial
+- **Modalidad:** Virtual (Zoom)
 - **Puntaje total:** 10 puntos
 
 ### Distribución de Calificaciones
@@ -471,13 +472,19 @@ TOTAL:        3.0 pts
 
 **Objetivo:** Demostrar dominio conceptual y capacidad de explicar decisiones técnicas.
 
-**Formato:** Presentación presencial el día sábado (15-20 minutos)
+**Formato:** Presentación virtual por Zoom el día sábado (15-20 minutos)
+
+**Información de la sesión:**
+- 📅 **Fecha:** Sábado 07:00 AM
+- 🔗 **Enlace Zoom:** https://utpl.zoom.us/j/84861000609
+- ⏱️ **Duración:** 15-20 minutos por estudiante
 
 Durante la defensa oral deberás:
-1. Explicar tu código de las Fases 1 y 2
-2. Justificar decisiones de diseño
-3. Responder preguntas sobre conceptos
-4. Proponer mejoras o alternativas
+1. Compartir tu pantalla mostrando el código de las Fases 1 y 2
+2. Explicar y ejecutar tu código
+3. Justificar decisiones de diseño
+4. Responder preguntas sobre conceptos
+5. Proponer mejoras o alternativas
 
 ---
 
@@ -612,10 +619,12 @@ scala Inmutabilidad
 
 | Actividad | Fecha | Hora |
 |-----------|-------|------|
-| Publicación de evaluación | [Fecha actual] | - |
+| Publicación de evaluación | 27 de noviembre | - |
 | Consultas permitidas | Hasta el viernes | 18:00 |
 | **Entrega del código** | **Viernes** | **23:59** |
-| **Defensa oral** | **Sábado** | **[A coordinar]** |
+| **Defensa oral (Zoom)** | **Sábado** | **07:00 AM** |
+
+**Enlace Zoom para defensa oral:** https://utpl.zoom.us/j/84861000609
 
 ---
 
