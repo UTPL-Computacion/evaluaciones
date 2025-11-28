@@ -261,11 +261,11 @@ Esta fase evalúa tu capacidad de investigación autónoma y aplicación de téc
 
 ---
 
-### Ejercicio 2.1: Funciones de Orden Superior - JavaScript (0.8 puntos)
+### Ejercicio 2.1: Funciones de Orden Superior - JavaScript (0.7 puntos)
 
 **Concepto evaluado:** Funciones que reciben o retornan otras funciones
 
-**Requisito A: Closure - Función que retorna función (0.4 puntos)**
+**Requisito A: Closure - Función que retorna función (0.35 puntos)**
 
 ```javascript
 /**
@@ -290,7 +290,7 @@ const filtrarRecientes = crearFiltrador({ anio: 2020, operador: "mayor" });
 const librosRecientes = libros.filter(filtrarRecientes);
 ```
 
-**Requisito B: Función como parámetro (0.4 puntos)**
+**Requisito B: Función como parámetro (0.35 puntos)**
 
 ```javascript
 /**
@@ -313,7 +313,7 @@ procesarPrestamos(prestamos, enviarRecordatorios);
 
 ---
 
-### Ejercicio 2.2: Composición de Funciones - Scala (0.7 puntos)
+### Ejercicio 2.2: Composición de Funciones - Scala (0.6 puntos)
 
 **Concepto evaluado:** Composición y encadenamiento de transformaciones
 
@@ -361,7 +361,7 @@ val librosConPrecioFinal = libros.map(procesarPrecioFinal)
 
 ---
 
-### Ejercicio 2.3: Map, Filter, Reduce Avanzado - JavaScript (1.0 puntos)
+### Ejercicio 2.3: Map, Filter, Reduce Avanzado - JavaScript (0.8 puntos)
 
 **Concepto evaluado:** Uso avanzado de operaciones funcionales en problema complejo
 
@@ -413,7 +413,7 @@ const historialPrestamos = [
 
 ---
 
-### Ejercicio 2.4: Tuplas y Análisis Funcional - Scala (0.5 puntos)
+### Ejercicio 2.4: Tuplas y Análisis Funcional - Scala (0.4 puntos)
 
 **Concepto evaluado:** Uso de tuplas y operaciones funcionales en Scala
 
@@ -455,13 +455,58 @@ println(s"Total: $total, Activos: $activos, Promedio: $promedio")
 
 ---
 
+### Ejercicio 2.5: Reflexión y Análisis - REFLEXION.md (0.5 puntos)
+
+**Concepto evaluado:** Capacidad de análisis crítico y aprendizaje autónomo
+
+**Requisito:** Crear un documento `REFLEXION.md` en la raíz del proyecto que contenga un análisis reflexivo sobre tu experiencia implementando estos ejercicios.
+
+**Estructura del documento:**
+
+```markdown
+# Reflexión sobre Programación Funcional
+
+## 1. Ventajas de la Programación Funcional (0.15 puntos)
+- ¿Qué ventajas encontraste al aplicar programación funcional en el caso de la Biblioteca UTPL?
+- ¿En qué situaciones específicas fue más útil?
+- Compara con cómo lo habrías resuelto de forma imperativa
+
+## 2. Desafíos y Dificultades (0.15 puntos)
+- ¿Qué desafíos enfrentaste al evitar la mutación de datos?
+- ¿Qué concepto te resultó más difícil de implementar y por qué?
+- ¿Cómo los superaste?
+
+## 3. Comparación JavaScript vs Scala (0.1 puntos)
+- ¿Qué lenguaje te resultó más natural para programación funcional?
+- ¿Qué características de cada lenguaje facilitaron o dificultaron la implementación?
+- ¿En qué contextos elegirías uno sobre el otro?
+
+## 4. Aplicabilidad Práctica (0.1 puntos)
+- ¿Aplicarías estos conceptos en proyectos reales? ¿Por qué?
+- ¿Qué conceptos te parecieron más valiosos para tu formación profesional?
+- ¿En qué tipo de problemas consideras que la programación funcional es superior?
+```
+
+**Criterios de evaluación:**
+- Profundidad del análisis (no solo describir, sino analizar críticamente)
+- Ejemplos concretos de tu código
+- Reflexión genuina sobre el proceso de aprendizaje
+- Claridad y coherencia en la redacción
+
+**Extensión:** Mínimo 500 palabras, máximo 1000 palabras
+
+**Archivo:** `REFLEXION.md` (en la raíz del proyecto)
+
+---
+
 **Total FASE 2 (AAB1): 3.0 puntos**
 
 ```
-Ejercicio 2.1: 0.8 pts (Orden Superior JS)
-Ejercicio 2.2: 0.7 pts (Composición Scala)
-Ejercicio 2.3: 1.0 pts (Map/Filter/Reduce Avanzado JS)
-Ejercicio 2.4: 0.5 pts (Tuplas Scala)
+Ejercicio 2.1: 0.7 pts (Orden Superior JS)
+Ejercicio 2.2: 0.6 pts (Composición Scala)
+Ejercicio 2.3: 0.8 pts (Map/Filter/Reduce Avanzado JS)
+Ejercicio 2.4: 0.4 pts (Tuplas Scala)
+Ejercicio 2.5: 0.5 pts (Reflexión REFLEXION.md)
 -------------------
 TOTAL:        3.0 pts
 ```
@@ -559,7 +604,8 @@ evaluacion-reactiva-funcional/
 │   ├── 2.2-composicion.scala
 │   └── 2.4-tuplas-analisis.scala
 │
-└── README.md (instrucciones de ejecución)
+├── README.md (instrucciones de ejecución)
+└── REFLEXION.md (análisis reflexivo)
 ```
 
 ### Contenido Mínimo del README.md
@@ -724,7 +770,7 @@ val prestamos = List(
 | Fase | Componente | Ejercicios | Puntos |
 |------|------------|------------|--------|
 | **FASE 1: Fundamentos** | APEB1 | 1.1 a 1.5 | 3.5 |
-| **FASE 2: Aplicación Avanzada** | AAB1 | 2.1 a 2.4 | 3.0 |
+| **FASE 2: Aplicación Avanzada** | AAB1 | 2.1 a 2.5 (incluye REFLEXION.md) | 3.0 |
 | **FASE 3: Defensa Oral** | ACDB1 | Presentación | 3.5 |
 | | | **TOTAL** | **10.0** |
 
