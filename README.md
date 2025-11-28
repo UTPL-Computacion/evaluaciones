@@ -637,7 +637,8 @@ scala Inmutabilidad
    - Ejemplo: `CuencaAndres_EvaluacionFuncional.zip`
 3. Incluir **todos** los archivos de la estructura especificada
 4. Asegurar que el código **ejecute sin errores**
-5. Incluir README.md con instrucciones
+5. Incluir README.md con instrucciones de ejecución
+6. **IMPORTANTE:** En tu README.md incluir el enlace al repositorio de tu evaluación en GitHub
 
 ---
 
